@@ -1,5 +1,7 @@
 # Aurora Archives
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24174471.svg)](https://doi.org/10.5281/zenodo.24174471)
+
 A nightly index of low-latitude aurora sightings in US newspapers (1800–1963), and a catalogue of geomagnetic storms before 1868 built from it.
 
 ## Overview
@@ -87,7 +89,7 @@ docs/DATA.md            description of every file and column
 notes/                  literature searches
 ```
 
-The candidate articles (326,123 records, 292 MB) are published separately on Zenodo. Extract them into `data/harvest/hits/`.
+The candidate articles (326,123 records, 292 MB) are published separately in the [Zenodo record](https://doi.org/10.5281/zenodo.24174471). Extract them into `data/harvest/hits/`.
 
 ## Reproducing the results
 
@@ -117,7 +119,11 @@ Code is released under the MIT license. Data in this repository is released unde
 
 ## Citation
 
-Please cite this dataset using the metadata in [`CITATION.cff`](CITATION.cff).
+Please cite this dataset as:
+
+> Cicala, F. (2026). *Aurora Archives: a nightly low-latitude aurora index from US newspapers (1800–1963) and a catalogue of pre-1868 geomagnetic storms* (v0.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24174471
+
+Citation metadata is also in [`CITATION.cff`](CITATION.cff).
 
 ## Contact
 

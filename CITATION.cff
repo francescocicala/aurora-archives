@@ -7,6 +7,7 @@ authors:
     given-names: Francesco
     orcid: "https://orcid.org/0009-0009-7977-0975"
 version: 0.1.0
+doi: 10.5281/zenodo.24174471
 date-released: 2026-11-12
 license: CC-BY-4.0
 keywords: [aurora, geomagnetic storms, space weather, historical newspapers, Chronicling America, LLM agents]
