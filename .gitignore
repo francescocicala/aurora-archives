@@ -1,0 +1,11 @@
+data/hits/
+data/volume/
+data/papers/
+*.part
+data/ref/Hels_*
+data/ref/helsinki_H_Ak_1844_1897.csv
+data/ref/aaH_daily_1868_2017.csv
+data/ref/2020_Gaz_place_national.txt
+data/ref/daily_kp_index_since_1932.csv
+data/ref/severe_geomagnetic_storms_g4_g5_since_1932.csv
+data/harvest/hits/

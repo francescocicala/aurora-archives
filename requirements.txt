@@ -1,0 +1,7 @@
+requests>=2.31
+pandas>=2.2
+numpy>=1.26
+scipy>=1.11
+scikit-learn==1.9.1
+matplotlib>=3.8
+us>=3.1

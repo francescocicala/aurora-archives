@@ -1,0 +1,81 @@
+rid	round	id	night	place_x	lat_x	s	obs	place_y	lat_y	yes
+d000	round1	1859-09-14_26	1859-08-28	San Francisco, CA	37.8	YES	1859-08-28	San Francisco, CA	37.8	True
+d001	round1	1851-10-03_20	1851-09-29	Hartford, CT	41.8	YES	1851-09-29	Hartford, CT	41.8	True
+d002	round1	1860-08-13_06	1860-08-06	Pike County, MS	31.2	YES	1860-08-06	Pike County, MS	31.2	True
+d003	round3	1833-05-22_02	1833-05-17	local	38.8	YES	1833-05-17	local	38.8	True
+d004	round1	1837-01-25_11	1837-01-25	local	44.3	YES	1837-01-25	local	44.3	True
+d005	round1	1839-09-05_04	1839-09-03	local	33.8	YES	1839-09-03	local	33.8	True
+d006	round3	1860-06-27_01	1860-07-04	?	?	YES	1860-07-04	local	?	True
+d007	round2	1852-01-21_08	1852-01-19	local	38.9	YES	1852-01-19	local	38.9	True
+d008	round1	1847-04-08_05	1847-04-07	local	41.0	YES	1847-04-07	local	41.0	True
+d009	round1	1860-03-28_00	1860-03-27	Louisville, Kentucky	38.3	YES	1860-03-27	Louisville, KY	38.3	True
+d010	round2	1859-10-19_08	1859-09-01	New Braunfels, TX	29.7	YES	1859-09-01	New Braunfels, TX	29.7	True
+d011	round1	1837-11-15_01	1837-11-14	local	36.1	YES	1837-11-14	Fayetteville, NC	35.1	True
+d012	round3	1865-08-03_07	1865-08-02	Hartford, CT	41.8	YES	1865-08-09	Hartford, CT	41.8	True
+d013	round1	1866-02-21_16	1866-02-20	New York, NY	40.7	YES	1866-02-20	local	40.7	True
+d014	round1	1859-08-28_17	1859-08-28	Indianapolis, IN	39.8	YES	1859-08-28	Indianapolis, IN	39.8	True
+d015	round1	1837-01-25_06	1837-01-25	local	43.6	YES	1837-01-25	Boston, MA	42.4	True
+d016	round1	1847-04-08_01	1847-04-07	Baltimore, MD	39.3	YES	1847-04-07	Baltimore, MD	39.3	True
+d017	round1	1860-09-06_12	1860-09-06	local	39.8	YES	1860-09-06	local	39.8	True
+d018	round1	1860-09-06_03	1860-09-06	local	38.4	YES	1860-09-06	local	?	True
+d019	round1	1839-09-05_02	1839-09-03	Boston, MA	42.4	YES	1839-09-03	Boston, MA	42.4	True
+d020	round1	1859-08-28_31	1859-08-28	local	41.5	YES	1859-08-28	local	41.5	True
+d021	round1	1847-04-08_03	1847-04-07	local	40.0	YES	1847-04-07	local	40.0	True
+d022	round2	1852-02-29_06	1852-02-18	Boston, Massachusetts	42.4	YES	?	Boston, MA	42.4	True
+d023	round1	1860-09-06_06	1860-09-06	local	33.1	YES	1860-09-06	local	33.1	True
+d024	round1	1837-11-15_05	1837-11-14	local	40.7	YES	1837-11-14	local	40.7	True
+d025	round3	1860-07-04_00	1860-07-04	Nevada City, CA	39.3	YES	1860-07-04	local	39.3	True
+d026	round2	1858-03-14_01	1858-03-12	Alexandria, VA	38.8	YES	1858-03-12	Richmond, VA	37.5	True
+d027	round1	1851-10-03_02	1851-09-29	local	35.8	YES	1851-09-29	Wilmington, NC	34.2	True
+d028	round1	1859-08-28_22	1859-08-28	local	40.3	YES	1859-08-28	local	40.8	True
+d029	round2	1862-08-04_00	1862-08-04	local	42.3	YES	1862-08-04	local	42.3	True
+d030	round2	1860-12-16_05	1860-12-15	local	41.5	YES	1860-12-15	local	41.5	True
+d031	round1	1837-11-15_06	1837-11-14	local	33.8	YES	1837-11-14	local	33.8	True
+d032	round2	1859-10-19_04	1859-08-28	?	?	NO	?	?	?	False
+d033	round2	1859-10-19_09	1859-10-03	England	52.0	NO	?	?	?	False
+d034	round1	1860-08-13_08	1860-08-09	New Haven, CT	41.3	YES	1860-08-09	New Haven, CT	41.3	True
+d035	round1	1837-01-25_12	1837-01-25	local	40.7	YES	1837-01-25	local	40.7	True
+d036	round1	1859-08-28_21	1859-08-28	Pittsburgh, PA	40.4	YES	1859-08-28	Pittsburgh, PA	40.4	True
+d037	round1	1837-01-25_10	1837-01-25	Baltimore, MD	39.3	YES	1837-01-25	Baltimore, MD	39.3	True
+d038	round2	1853-09-05_02	1853-09-01	local	41.5	YES	1853-09-01	local	41.5	True
+d039	round3	1861-03-09_01	1861-03-09	local	40.9	YES	1861-03-09	local	40.9	True
+d040	round1	1851-10-03_07	1851-09-29	local	44.3	YES	1851-09-29	local	44.3	True
+d041	round1	1859-09-14_06	1859-08-28	Victoria, BC	48.4	YES	?	Portland, OR	45.5	True
+d042	round1	1851-10-03_12	1851-09-29	?	?	YES	1851-09-29	local	38.9	True
+d043	round2	1852-01-21_10	1852-01-19	local	37.5	YES	1852-01-19	local	37.5	True
+d044	round1	1848-11-28_04	1848-11-17	Portsmouth, OH	38.7	YES	1848-11-18	Cincinnati, OH	39.1	True
+d045	round2	1859-10-19_00	1859-08-28	England	52.0	YES	1859-08-28	England	52.5	True
+d046	round1	1859-09-14_15	1859-08-28	Charlestown, OH	41.2	YES	1859-08-28	Charlestown, OH	41.1	True
+d047	round2	1853-09-05_03	1853-09-01	Boston, MA	42.4	YES	1853-09-01	Boston, MA	42.4	True
+d048	round3	1860-04-13_13	1860-04-13	Georgetown Heights, DC	38.9	YES	1860-04-20	Washington, DC	38.9	True
+d049	round3	1837-02-13_04	1837-01-25	local	44.5	YES	1837-01-25	Quebec	46.8	True
+d050	round1	1859-08-28_00	1859-09-01	local	38.8	YES	1859-09-01	local	38.8	True
+d051	round1	1847-04-08_09	1847-04-07	Wilmington, DE	39.7	YES	1847-04-07	Wilmington, DE	39.7	True
+d052	round2	1859-10-19_07	1859-08-28	continent	?	NO	?	?	?	False
+d053	round3	1830-07-15_00	1830-07-14	Frederick, MD	39.4	YES	1830-07-18	Fredericksburg, VA	38.3	True
+d054	round1	1859-08-28_04	1859-08-28	Louisville, KY	38.3	YES	?	local	31.3	True
+d055	round1	1860-03-28_04	1860-03-27	local	37.5	YES	1860-03-27	local	37.5	True
+d056	round1	1847-04-08_06	1847-04-07	New Haven, CT	41.3	YES	1847-04-07	New Haven, CT	41.3	True
+d057	round2	1852-01-21_16	1852-01-19	local	38.9	YES	1852-01-19	local	38.9	True
+d058	round3	1839-09-10_09	1839-09-03	Hamilton, Bermuda	32.3	YES	1839-09-03	Hamilton, Bermuda	32.3	True
+d059	round1	1837-11-15_07	1837-11-14	local	40.7	YES	1837-11-14	local	40.7	True
+d060	round2	1853-09-05_06	1853-09-01	local	40.1	YES	1853-09-08	local	40.1	True
+d061	round2	1860-12-16_00	1860-12-15	local	38.0	YES	1860-12-15	local	38.0	True
+d062	round1	1859-08-28_13	1859-09-01	New York, NY	40.7	YES	1859-08-28	Charleston, SC	32.8	True
+d063	round1	1866-02-21_10	1866-02-20	Cincinnati, OH	39.1	YES	1866-02-20	Cincinnati, OH	39.1	True
+d064	round3	1837-02-13_03	1837-01-25	?	?	YES	1837-01-25	local	?	True
+d065	round2	1852-01-21_06	1852-01-19	local	38.8	YES	?	local	38.8	True
+d066	round1	1860-09-06_07	1860-09-06	local	37.3	YES	1860-09-06	local	39.1	True
+d067	round3	1859-06-09_01	1859-06-08	Sacramento, California	38.6	YES	1859-06-07	Sacramento, CA	38.6	True
+d068	round1	1859-09-14_18	1859-09-01	at sea	28.5	YES	1859-09-01	at sea	28.5	True
+d069	round1	1860-09-06_29	1860-09-06	?	?	YES	1860-09-06	?	?	True
+d070	round3	1866-04-06_03	1866-03-07	Orkedal, Norway	63.3	YES	?	?	?	True
+d071	round1	1860-09-06_22	1860-09-06	local	39.8	YES	1860-09-06	local	39.8	True
+d072	round1	1859-09-30_32	1859-08-28	Rome, Italy	41.9	YES	1859-08-28	Rome, Italy	41.9	True
+d073	round1	1859-09-14_11	1859-08-28	Germany	51.0	YES	1859-08-28	Germany	51.0	True
+d074	round1	1859-08-28_36	1859-09-01	local	42.3	YES	1859-09-01	local	42.3	True
+d075	round3	1859-11-23_01	1859-09-01	at sea (off Cape Horn)	-56.0	YES	1859-09-02	at sea	-56.0	True
+d076	round3	1837-07-04_04	1837-07-01	?	?	YES	?	New York, NY	40.7	True
+d077	round3	1859-06-09_04	1859-06-08	local	42.9	YES	1859-06-15	local	42.9	True
+d078	round1	1859-08-28_32	1859-08-28	local	42.0	YES	1859-08-28	local	42.0	True
+d079	round1	1839-09-05_08	1839-09-03	local	44.5	YES	1839-09-03	local	44.5	True

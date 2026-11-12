@@ -1,0 +1,27 @@
+== aaH_night 1868-1963: 30155 nights with >=10 active papers; Spearman(share,aaH_night) = 0.117; storm threshold 400 (top 0.18% of nights)
+top-10 peaks: 40% storm nights; median aaH_night 368 (all nights 31)
+top-25 peaks: 36% storm nights; median aaH_night 358 (all nights 31)
+top-50 peaks: 22% storm nights; median aaH_night 232 (all nights 31)
+top-100 peaks: 15% storm nights; median aaH_night 162 (all nights 31)
+recall: 9/23 storm events have a top-25 peak within their nights +-1
+recall: 11/23 storm events have a top-50 peak within their nights +-1
+recall: 15/23 storm events have a top-100 peak within their nights +-1
+recall: 16/23 storm events have a top-200 peak within their nights +-1
+== Ak_night 1844-1867: 8362 nights with >=5 active papers; Spearman(share,Ak_night) = 0.134; storm threshold 100 (top 0.68% of nights)
+top-10 peaks: 10% storm nights; median Ak_night 40 (all nights 12)
+top-25 peaks: 4% storm nights; median Ak_night 16 (all nights 12)
+top-50 peaks: 6% storm nights; median Ak_night 16 (all nights 12)
+top-100 peaks: 6% storm nights; median Ak_night 19 (all nights 12)
+recall: 2/25 storm events have a top-25 peak within their nights +-1
+recall: 4/25 storm events have a top-50 peak within their nights +-1
+recall: 7/25 storm events have a top-100 peak within their nights +-1
+recall: 9/25 storm events have a top-200 peak within their nights +-1
+== Ak_night 1868-1897: 9419 nights with >=10 active papers; Spearman(share,Ak_night) = 0.158; storm threshold 100 (top 0.30% of nights)
+top-10 peaks: 10% storm nights; median Ak_night 52 (all nights 12)
+top-25 peaks: 8% storm nights; median Ak_night 50 (all nights 12)
+top-50 peaks: 4% storm nights; median Ak_night 33 (all nights 12)
+top-100 peaks: 3% storm nights; median Ak_night 25 (all nights 12)
+recall: 3/14 storm events have a top-25 peak within their nights +-1
+recall: 3/14 storm events have a top-50 peak within their nights +-1
+recall: 4/14 storm events have a top-100 peak within their nights +-1
+recall: 4/14 storm events have a top-200 peak within their nights +-1

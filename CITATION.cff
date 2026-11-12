@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "Aurora Archives: a nightly low-latitude aurora index from US newspapers (1800-1963) and a catalogue of pre-1868 geomagnetic storms"
+type: dataset
+authors:
+  - family-names: Cicala
+    given-names: Francesco
+    orcid: "https://orcid.org/0009-0009-7977-0975"
+version: 0.1.0
+date-released: 2026-11-12
+license: CC-BY-4.0
+keywords: [aurora, geomagnetic storms, space weather, historical newspapers, Chronicling America, LLM agents]
+references:
+  - type: dataset
+    title: "American Stories: A Large-Scale Structured Text Dataset of Historical U.S. Newspapers"
+    authors:
+      - family-names: Dell
+        given-names: Melissa
+    year: 2023
