@@ -12,7 +12,7 @@ The main outputs are:
 
 - **A nightly aurora index (1800–1963):** the share of active US newspapers reporting an aurora sighting on each night, based on 326,123 candidate articles.
 - **A catalogue of 49 confirmed storms from 1827 to 1867,** the period before continuous magnetic indices. Each storm comes with its dated sightings, the southernmost US location and the source articles.
-- **A list of 41 storms with no modern study found,** including 6–7 September 1860, when the aurora was seen at New Orleans (30°N).
+- **A list of 39 storms with no dedicated modern study found,** including 6–7 September 1860, when the aurora was seen at New Orleans (30°N). Many of them appear in magnetometer storm tables, but their aurorae and impacts have not been analysed.
 
 The motivation is space-weather risk. Estimates of how often extreme storms occur depend on a long record of past events, and the global magnetic indices only begin in 1868. Historical aurora sightings are one of the few ways to extend that record further back.
 
@@ -42,20 +42,19 @@ The motivation is space-weather risk. Estimates of how often extreme storms occu
 
 ![Pre-1868 storms](docs/img/pre1868_storms.png)
 
-These are the storms with no modern study found that reached furthest south. The full list is in [`results/undocumented_storms_pre1868.tsv`](results/undocumented_storms_pre1868.tsv), and all 49 storms with their literature status are in [`results/storms_pre1868_with_literature.tsv`](results/storms_pre1868_with_literature.tsv).
+These are the storms with no dedicated modern study found that reached furthest south. The full list is in [`results/undocumented_storms_pre1868.tsv`](results/undocumented_storms_pre1868.tsv), and all 49 storms with their literature status are in [`results/storms_pre1868_with_literature.tsv`](results/storms_pre1868_with_literature.tsv).
 
-| Night | Southernmost US sighting | Reports | Helsinki Ak percentile |
-| --- | --- | --- | --- |
-| 1860-09-06 | New Orleans, LA (30.0°N) | 47 | 100.0 |
-| 1860-08-06 | Pike County, MS (31.2°N) | 23 | 99.8 |
-| 1851-09-03 | Savannah coast, GA (32.0°N) | 4 | 99.8 |
-| 1866-02-20 | Meridian, MS (32.4°N) | 25 | 99.3 |
-| 1851-09-29 | Charleston, SC (32.8°N) | 19 | 99.3 |
-| 1837-11-13 | Edgefield, SC (33.8°N) | 7 | – |
-| 1861-03-09 | Oxford, MS (34.4°N) | 7 | 95.1 |
-| 1837-07-01 | Cheraw, SC (34.7°N) | 9 | – |
+| Night | Southernmost US sighting | Reports | Helsinki Ak percentile | Est. Dst, Eapen et al. 2026 |
+| --- | --- | --- | --- | --- |
+| 1860-09-06 | New Orleans, LA (30.0°N) | 47 | 100.0 | ~466 nT |
+| 1860-08-06 | Pike County, MS (31.2°N) | 23 | 99.8 | ~249 nT (6–7 Aug); ~531 nT (14 Aug) |
+| 1851-09-03 | Savannah coast, GA (32.0°N) | 4 | 99.8 | ~203 nT |
+| 1851-09-29 | Charleston, SC (32.8°N) | 19 | 99.3 | ~344 nT |
+| 1837-11-13 | Edgefield, SC (33.8°N) | 7 | – | – |
+| 1861-03-09 | Oxford, MS (34.4°N) | 7 | 95.1 | ~198 nT |
+| 1837-07-01 | Cheraw, SC (34.7°N) | 9 | – | – |
 
-"No modern study found" means I found none in searches of the modern literature (by date), the *American Journal of Science* (1851–1866), Smithsonian annual reports and the main aurora catalogues. Several of these storms do appear in 19th-century journals or in Silverman's catalogue. The searches are documented in [`notes/`](notes/). If you know of a relevant study, please open an issue.
+"No dedicated modern study found" means I found none in searches of the modern literature (by date), the *American Journal of Science* (1851–1866), Smithsonian annual reports and the main aurora catalogues. Several of these storms appear in 19th-century journals or in Silverman's catalogue. Most storms after 1841 also appear in the magnetometer storm tables of Eapen et al. (2026, preprint, [doi:10.20944/preprints202601.0687.v1](https://doi.org/10.20944/preprints202601.0687.v1)), which gives intensity estimates but does not analyse the aurorae. Several of them, including August and September 1860, were classed as "great storms" at Greenwich (Maunder, 1905); they are known magnetic storms. What has not been studied is the aurora: where it was seen, how far south, and its effects on the telegraphs. The magnetic intensities there broadly agree with the newspaper evidence; 20 February 1866 (Meridian, MS) is mentioned briefly in that preprint and so no longer appears in this table. The searches are documented in [`notes/`](notes/). If you know of a relevant study, please open an issue.
 
 ## Method
 
@@ -70,6 +69,14 @@ These are the storms with no modern study found that reached furthest south. The
    - Comparison with magnetometer data that was not used at any earlier step.
 
 The agent instructions are in [`bin/labeler_prompt.md`](bin/labeler_prompt.md) and [`bin/dossier_prompt.md`](bin/dossier_prompt.md).
+
+## Related work
+
+- **Sharma (2026), [`shmanubhav/aurora-catalog`](https://github.com/shmanubhav/aurora-catalog)** ([Zenodo 10.5281/zenodo.23275918](https://doi.org/10.5281/zenodo.23275918)). It classifies aurora sighting reports in American Stories with LLM labellers and a fine-tuned classifier, for the August–September 1859 storms and a pre-registered February 1872 test. Aurora Archives uses the same corpus, but covers 1800–1963 continuously and builds a normalised nightly index. It also validates against magnetometer data and catalogues storms before 1868.
+- **Manual newspaper studies of individual storms or single newspapers.** Examples are Love, Hayakawa & Cliver (2019) on May 1921, Hayakawa et al. (2023) on February 1872, and Sánchez Romero et al. (2025) on one Spanish newspaper.
+- **Magnetometer storm lists.** Eapen et al. (2026, preprint) list and size storms from 1841 to 1877 using Indian and Singapore observatory data, and Nevanlinna (2004) lists severe days in the Helsinki record. Many storms in this catalogue appear there, without analysis of their aurorae.
+- **Aurora catalogues compiled by hand.** These include Silverman's catalogues ([NASA SPDF](https://spdf.gsfc.nasa.gov/pub/data/aaa_special-purpose-datasets/aaa_historical_aurora/)) and the long-term analysis of Lockwood et al. (2025, MNRAS 540:3596).
+- **Text mining in other historical hazard records,** such as earthquake felt reports (Agrawal et al., 2026) and news-based hazard inventories. None of these address space weather.
 
 ## Repository structure
 
@@ -121,7 +128,7 @@ Code is released under the MIT license. Data in this repository is released unde
 
 Please cite this dataset as:
 
-> Cicala, F. (2026). *Aurora Archives: a nightly low-latitude aurora index from US newspapers (1800–1963) and a catalogue of pre-1868 geomagnetic storms* (v0.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24174471
+> Cicala, F. (2026). *Aurora Archives: a nightly low-latitude aurora index from US newspapers (1800–1963) and a catalogue of pre-1868 geomagnetic storms* (v0.1.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24174471
 
 Citation metadata is also in [`CITATION.cff`](CITATION.cff).
 

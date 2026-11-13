@@ -3,7 +3,7 @@
   "upload_type": "dataset",
   "creators": [{"name": "Cicala, Francesco", "orcid": "0009-0009-7977-0975"}],
   "license": "cc-by-4.0",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "keywords": ["aurora", "geomagnetic storms", "space weather", "historical newspapers", "Chronicling America", "LLM agents"],
   "description": "Nightly index of aurora sightings from 326,123 US newspaper articles (1800-1963, American Stories corpus), validated against the aaH (1868-1950) and Helsinki Ak (1844-1867) magnetometer records, and a catalogue of 49 confirmed pre-1868 storms with article-level evidence. Includes code, agent prompts, 3,091 agent labels, independent blind re-labelling, the classifier and all dossiers. Code MIT, derived data CC BY 4.0."
 }

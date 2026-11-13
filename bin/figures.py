@@ -35,8 +35,8 @@ s = pd.read_csv(f"{root}/results/storms_pre1868_with_literature.tsv", sep="\t", 
 yr = s["first"].dt.year + (s["first"].dt.dayofyear - 1) / 365
 fig, ax = plt.subplots(figsize=(10, 4.8))
 new = s.modern_study.eq("NONE_FOUND")
-ax.scatter(yr[~new], s.lat[~new], s=12 + s.reports[~new] * 4, facecolor="white", edgecolor=INK, lw=1, zorder=3, label="studied / mentioned in modern work")
-ax.scatter(yr[new], s.lat[new], s=12 + s.reports[new] * 4, color=BLUE, alpha=0.55, lw=0, zorder=2, label="no modern study found")
+ax.scatter(yr[~new], s.lat[~new], s=12 + s.reports[~new] * 4, facecolor="white", edgecolor=INK, lw=1, zorder=3, label="studied or discussed in modern work")
+ax.scatter(yr[new], s.lat[new], s=12 + s.reports[new] * 4, color=BLUE, alpha=0.55, lw=0, zorder=2, label="no dedicated modern study found")
 for d, lab, dx, dy in [("1860-09-06", "6 Sep 1860, New Orleans", 14, -14), ("1860-08-06", "6 Aug 1860, Pike Co. MS", -16, 24),
                        ("1859-09-01", "Sep 1859 (Carrington)", -14, -4), ("1859-08-28", "Aug 1859", -14, 2),
                        ("1866-02-20", "Feb 1866, Meridian MS", 8, 14), ("1851-09-29", "Sep 1851, Charleston", -12, 10),

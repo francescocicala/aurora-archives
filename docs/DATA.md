@@ -9,8 +9,9 @@ Code is MIT-licensed (`LICENSE`). All data files produced by this project are CC
 - `modern_refs`: the modern references found.
 - `nineteenth_century_refs`: contemporary accounts in the *American Journal of Science* (AJS) and the *Proceedings of the American Philosophical Society* (APS).
 - `silverman_new_england`: whether the storm appears in Silverman's New England aurora catalogue.
+- `magnetometer_storm_lists`: the matching entry in the storm tables of Eapen et al. (2026, preprint), with Greenwich class and estimated Dst. Rows marked "to confirm" differ by a day or more.
 
-`results/undocumented_storms_pre1868.tsv` is the subset marked NONE_FOUND, sorted by southern extent. The searches behind these columns are described in `notes/prior_work_49_storms.md` and `notes/loomis_check.md`. NONE_FOUND means our searches found nothing, not that no study exists.
+`results/undocumented_storms_pre1868.tsv` is the subset marked NONE_FOUND (no dedicated modern study), sorted by southern extent. The searches behind these columns are described in `notes/prior_work_49_storms.md` and `notes/loomis_check.md`. NONE_FOUND means our searches found nothing, not that no study exists.
 
 `results/dossiers/catalogue_nights_pre1868_storms.tsv` has one row per storm, where consecutive nights are merged.
 

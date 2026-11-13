@@ -1,50 +1,50 @@
-first	last	reports	papers	southernmost_us	lat	Ak_pct	modern_study	modern_refs	nineteenth_century_refs	silverman_new_england
-1827-08-28	1827-08-28	10	9	Richmond, VA	37.5		NONE_FOUND		AJS 1st ser. 14:91 (Silliman)	yes
-1827-09-09	1827-09-09	3	2	Wilmington, DE	39.7		NONE_FOUND			
-1830-07-14	1830-07-14	4	4	Charlestown, WV	38.4		NONE_FOUND			
-1833-05-17	1833-05-17	7	3	Charlestown, WV	38.4		NONE_FOUND			
-1836-11-12	1836-11-12	5	5	Cambridge, MA	42.4		NONE_FOUND			
-1837-01-25	1837-01-25	35	12	Richmond, VA	37.5		NONE_FOUND		AJS 32:176 (Olmsted)	yes
-1837-07-01	1837-07-01	9	6	Cheraw, SC	34.7		NONE_FOUND		AJS 33:143	yes
-1837-11-13	1837-11-15	7	6	Edgefield, SC	33.8		NONE_FOUND		AJS 34:267-269	yes
-1839-09-03	1839-09-03	32	12	New Orleans, LA	30.0		STUDIED	Hejda et al. 2021 (Prague magnetogram; US aurora not analysed)	AJS 38:260 (Herrick)	yes
-1840-02-09	1840-02-09	4	4				MENTIONED	listed in Prague 1839-1849 dataset		
-1846-10-19	1846-10-19	3	3	DC	38.9	77.5	NONE_FOUND			
-1847-04-07	1847-04-07	12	7	Washington, DC	38.9	98.2	NONE_FOUND		AJS 2nd ser. (Herrick)	yes
-1848-11-17	1848-11-18	11	9	Lake Providence, LA	32.8	99.8	STUDIED	Valach et al. 2019; Lockwood et al. 2025		
-1850-09-30	1850-09-30	3	3	Cleveland, OH	41.5	92.0	NONE_FOUND			
-1851-02-18	1851-02-18	7	6	Washington, DC	38.9	92.6	NONE_FOUND			
-1851-09-03	1851-09-03	4	4	Savannah, GA coast	32.0	99.8	NONE_FOUND		AJS (2) 12:442 (Olmsted, passing)	yes
-1851-09-29	1851-09-29	19	16	Charleston, SC	32.8	99.3	NONE_FOUND		AJS (2) 12:442, 13:128-129 (Olmsted, Gibbes, Le Conte)	yes
-1852-01-19	1852-01-19	30	11	Raleigh, NC	35.8	95.5	NONE_FOUND			yes
-1852-02-18	1852-02-20	27	15	Staunton, VA	38.2	99.9	MENTIONED	Nevanlinna 2004 severe-day list; Cliver & Dietrich 2013 (telegraph anecdote)	AJS (2) 13:426-430; Loomis AJS (2) 29:93, 34:42	yes
-1853-09-01	1853-09-01	9	7	St Clairsville, OH	40.1	99.8	NONE_FOUND			
-1858-03-12	1858-03-14	5	5	Alexandria, VA	38.8	99.2	NONE_FOUND			
-1859-02-22	1859-02-22	5	2	Washington, DC	38.9	95.5	NONE_FOUND			
-1859-06-08	1859-06-08	4	4	Sacramento, California	38.6	98.3	NONE_FOUND			
-1859-08-28	1859-08-29	93	57	Galveston, TX	29.3	95.1	STUDIED	Carrington-event literature		
-1859-09-01	1859-09-02	38	31	Key West, FL	24.6	91.1	STUDIED	Carrington-event literature		
-1859-10-03	1859-10-03	4	4			97.5	NONE_FOUND			
-1859-10-17	1859-10-18	9	5	San Francisco, CA	37.8	99.7	NONE_FOUND			
-1859-12-12	1859-12-12	4	4	Boston, MA	42.4	99.4	NONE_FOUND			
-1859-12-14	1859-12-14	4	3	Norfolk, VA	36.9	93.2	NONE_FOUND			
-1860-03-26	1860-03-29	12	9	Richmond, VA	37.5	100.0	NONE_FOUND			yes
-1860-04-09	1860-04-10	9	4	Bloomsburg, PA	41.0	99.3	NONE_FOUND			
-1860-04-13	1860-04-13	10	5	Georgetown Heights, DC	38.9	98.2	NONE_FOUND			
-1860-07-04	1860-07-04	13	8	CA	37.3	99.6	MENTIONED	Hayakawa et al. 2026 discuss Helsinki around 1-5 July 1860 (US evening = 5 July UT)		
-1860-07-11	1860-07-11	3	2	Detroit, Michigan	42.3	98.7	NONE_FOUND			
-1860-07-18	1860-07-20	8	5	local	38.9	96.8	NONE_FOUND			
-1860-08-06	1860-08-09	23	19	Pike County, MS	31.2	99.8	NONE_FOUND		AJS (2) 30:298, 31:136 (brief sightings only)	yes
-1860-09-06	1860-09-07	47	28	New Orleans, LA	30.0	100.0	NONE_FOUND			yes
-1860-09-15	1860-09-16	9	6	Staunton, VA	38.2	99.4	NONE_FOUND			
-1860-12-15	1860-12-15	6	6	Evansville, IN	38.0	99.3	NONE_FOUND			
-1861-03-09	1861-03-09	7	7	Oxford, Mississippi	34.4	95.1	NONE_FOUND			yes
-1862-08-04	1862-08-05	6	5	New York Ny, NY	40.7	99.8	NONE_FOUND			
-1862-08-19	1862-08-19	3	3	Keokuk, IA	40.4	97.3	NONE_FOUND			
-1862-12-14	1862-12-14	5	5	Offutt's Cross Roads, MD	39.0	99.7	MENTIONED	non-peer-reviewed archive (solarstorms.org)		
-1863-04-09	1863-04-09	4	4	Hanover, PA	39.8	97.3	NONE_FOUND			
-1864-08-24	1864-08-24	3	2	Hyde Park, VT	44.6	98.2	NONE_FOUND			
-1865-08-02	1865-08-02	16	9	Norfolk, VA	36.9	90.4	NONE_FOUND			yes
-1866-02-20	1866-02-21	25	17	Meridian, MS	32.4	99.3	NONE_FOUND		Proc. APS 10:206 (Cresson)	yes
-1866-03-07	1866-03-07	3	2			97.5	NONE_FOUND			
-1867-09-25	1867-09-27	16	10	Alexandria, VA	38.8	97.8	NONE_FOUND			yes
+first	last	reports	papers	southernmost_us	lat	Ak_pct	modern_study	modern_refs	nineteenth_century_refs	silverman_new_england	magnetometer_storm_lists
+1827-08-28	1827-08-28	10	9	Richmond, VA	37.5		NONE_FOUND		AJS 1st ser. 14:91 (Silliman)	yes	
+1827-09-09	1827-09-09	3	2	Wilmington, DE	39.7		NONE_FOUND				
+1830-07-14	1830-07-14	4	4	Charlestown, WV	38.4		NONE_FOUND				
+1833-05-17	1833-05-17	7	3	Charlestown, WV	38.4		NONE_FOUND				
+1836-11-12	1836-11-12	5	5	Cambridge, MA	42.4		NONE_FOUND				
+1837-01-25	1837-01-25	35	12	Richmond, VA	37.5		NONE_FOUND		AJS 32:176 (Olmsted)	yes	
+1837-07-01	1837-07-01	9	6	Cheraw, SC	34.7		NONE_FOUND		AJS 33:143	yes	
+1837-11-13	1837-11-15	7	6	Edgefield, SC	33.8		NONE_FOUND		AJS 34:267-269	yes	
+1839-09-03	1839-09-03	32	12	New Orleans, LA	30.0		STUDIED	Hejda et al. 2021 (Prague magnetogram; US aurora not analysed)	AJS 38:260 (Herrick)	yes	
+1840-02-09	1840-02-09	4	4				MENTIONED	listed in Prague 1839-1849 dataset			
+1846-10-19	1846-10-19	3	3	DC	38.9	77.5	NONE_FOUND				
+1847-04-07	1847-04-07	12	7	Washington, DC	38.9	98.2	NONE_FOUND		AJS 2nd ser. (Herrick)	yes	Eapen 2026: 8 Apr (to confirm)
+1848-11-17	1848-11-18	11	9	Lake Providence, LA	32.8	99.8	STUDIED	Valach et al. 2019; Lockwood et al. 2025			
+1850-09-30	1850-09-30	3	3	Cleveland, OH	41.5	92.0	NONE_FOUND				Eapen 2026: 1 Oct (to confirm)
+1851-02-18	1851-02-18	7	6	Washington, DC	38.9	92.6	NONE_FOUND				Eapen 2026: 19 Feb, A, est. Dst ~259 nT
+1851-09-03	1851-09-03	4	4	Savannah, GA coast	32.0	99.8	NONE_FOUND		AJS (2) 12:442 (Olmsted, passing)	yes	Eapen et al. 2026: A, Dst est. 203 nT
+1851-09-29	1851-09-29	19	16	Charleston, SC	32.8	99.3	NONE_FOUND		AJS (2) 12:442, 13:128-129 (Olmsted, Gibbes, Le Conte)	yes	Greenwich great storm; Eapen et al. 2026: G, Dst est. 344 nT
+1852-01-19	1852-01-19	30	11	Raleigh, NC	35.8	95.5	NONE_FOUND			yes	Eapen 2026: 20 Jan, A, est. Dst ~214 nT
+1852-02-18	1852-02-20	27	15	Staunton, VA	38.2	99.9	MENTIONED	Nevanlinna 2004 severe-day list; Cliver & Dietrich 2013 (telegraph anecdote)	AJS (2) 13:426-430; Loomis AJS (2) 29:93, 34:42	yes	Greenwich & Russia great storm; Eapen et al. 2026 discuss (Bombay dH ~1500 nT)
+1853-09-01	1853-09-01	9	7	St Clairsville, OH	40.1	99.8	NONE_FOUND				Eapen 2026: 2 Sep (to confirm)
+1858-03-12	1858-03-14	5	5	Alexandria, VA	38.8	99.2	NONE_FOUND				Eapen 2026: 13-14 Mar, A, est. Dst ~243 nT
+1859-02-22	1859-02-22	5	2	Washington, DC	38.9	95.5	NONE_FOUND				
+1859-06-08	1859-06-08	4	4	Sacramento, California	38.6	98.3	NONE_FOUND				Eapen 2026: 8 Jun, A, est. Dst ~310 nT
+1859-08-28	1859-08-29	93	57	Galveston, TX	29.3	95.1	STUDIED	Carrington-event literature			
+1859-09-01	1859-09-02	38	31	Key West, FL	24.6	91.1	STUDIED	Carrington-event literature			
+1859-10-03	1859-10-03	4	4			97.5	NONE_FOUND				
+1859-10-17	1859-10-18	9	5	San Francisco, CA	37.8	99.7	NONE_FOUND				Eapen 2026: 17-18 Oct, A, est. Dst ~406 nT
+1859-12-12	1859-12-12	4	4	Boston, MA	42.4	99.4	NONE_FOUND				Eapen 2026: 13 Dec (to confirm)
+1859-12-14	1859-12-14	4	3	Norfolk, VA	36.9	93.2	NONE_FOUND				Eapen 2026: 13 Dec (to confirm)
+1860-03-26	1860-03-29	12	9	Richmond, VA	37.5	100.0	DISCUSSED	Eapen et al. 2026 (preprint); Tamazawa 2025 (JpGU abstract)		yes	Eapen 2026: 28 Mar, A, est. Dst ~603 nT (discussed); Tamazawa JpGU 2025 abstract (aurora 29 Mar 1860, ship en route to San Francisco)
+1860-04-09	1860-04-10	9	4	Bloomsburg, PA	41.0	99.3	NONE_FOUND				Eapen 2026: 9-10 Apr, A, est. Dst ~209 nT
+1860-04-13	1860-04-13	10	5	Georgetown Heights, DC	38.9	98.2	NONE_FOUND				Eapen 2026: 13-14 Apr, A, est. Dst ~167 nT
+1860-07-04	1860-07-04	13	8	CA	37.3	99.6	MENTIONED	Hayakawa et al. 2026 discuss Helsinki around 1-5 July 1860 (US evening = 5 July UT)			
+1860-07-11	1860-07-11	3	2	Detroit, Michigan	42.3	98.7	NONE_FOUND				Eapen 2026: 11 Jul, est. Dst ~107 nT
+1860-07-18	1860-07-20	8	5	local	38.9	96.8	NONE_FOUND				
+1860-08-06	1860-08-09	23	19	Pike County, MS	31.2	99.8	NONE_FOUND		AJS (2) 30:298, 31:136 (brief sightings only)	yes	Greenwich great storms 8-11 Aug (GW H 450 nT) and 12-13 Aug (600 nT); Eapen et al. 2026: 6-7 Aug A, Tvm Dst 249 nT; 14 Aug G, 531 nT
+1860-09-06	1860-09-07	47	28	New Orleans, LA	30.0	100.0	NONE_FOUND			yes	Greenwich great storm (Maunder 1905); Eapen 2009 thesis & Eapen et al. 2026 preprint: GW H 425 nT, Tvm Dst 466 nT
+1860-09-15	1860-09-16	9	6	Staunton, VA	38.2	99.4	NONE_FOUND				
+1860-12-15	1860-12-15	6	6	Evansville, IN	38.0	99.3	NONE_FOUND				Eapen 2026: 16 Dec, est. Dst ~145 nT
+1861-03-09	1861-03-09	7	7	Oxford, Mississippi	34.4	95.1	NONE_FOUND			yes	Eapen et al. 2026: Tvm Dst 198 nT
+1862-08-04	1862-08-05	6	5	New York Ny, NY	40.7	99.8	NONE_FOUND				Eapen 2026: 4 Aug, G, est. Dst ~438 nT
+1862-08-19	1862-08-19	3	3	Keokuk, IA	40.4	97.3	NONE_FOUND				
+1862-12-14	1862-12-14	5	5	Offutt's Cross Roads, MD	39.0	99.7	MENTIONED	non-peer-reviewed archive (solarstorms.org)			
+1863-04-09	1863-04-09	4	4	Hanover, PA	39.8	97.3	NONE_FOUND				Eapen 2026: 9-11 Apr, est. Dst ~155 nT
+1864-08-24	1864-08-24	3	2	Hyde Park, VT	44.6	98.2	NONE_FOUND				
+1865-08-02	1865-08-02	16	9	Norfolk, VA	36.9	90.4	NONE_FOUND			yes	Eapen 2026: 2-3 Aug, G, est. Dst ~497 nT
+1866-02-20	1866-02-21	25	17	Meridian, MS	32.4	99.3	DISCUSSED	Eapen et al. 2026 (preprint), brief mention	Proc. APS 10:206 (Cresson)	yes	Greenwich great storm (GW H 400 nT); Eapen et al. 2026: G, Tvm Dst 557-567 nT (briefly discussed)
+1866-03-07	1866-03-07	3	2			97.5	NONE_FOUND				
+1867-09-25	1867-09-27	16	10	Alexandria, VA	38.8	97.8	NONE_FOUND			yes	Eapen 2026: 25-26 Sep, est. Dst ~225 nT
